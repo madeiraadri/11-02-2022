@@ -3,7 +3,7 @@ programa
 { 
 	funcao inicio () 
 	{ 
-		inteiro numero
+		
 		
 		escreva("Digite um número inteiro: ")
 		leia(numero)
